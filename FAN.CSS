@@ -1,0 +1,67 @@
+.head{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-color: black;
+    border-radius: 100%;
+    padding: 50px;
+}
+.inner{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    border-radius: 100%;
+}
+.holder{
+    width: 20px;
+    height: 20px;
+    border: 3px solid black;
+    border-radius: 100%;
+    margin-top: 95px;
+}
+.blade{
+width: 10px;
+height: 10px;
+border-left: 100px solid black;
+border-right: 100px solid black;
+border-top: 50px solid transparent;
+border-bottom: 50px solid transparent;
+border-top-left-radius: 50%;
+border-top-right-radius: 50%;
+border-bottom-left-radius: 50%;
+border-bottom-right-radius: 50%;
+padding-bottom: 10px;
+margin: -50px;
+}
+.thirdblade{
+    width: 10px;
+    height: 10px;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: 50px solid black;
+    border-bottom: 50px solid transparent;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin: -620px;
+}
+.leg{
+    width: 30px;
+    height: 300px;
+    border: 10px;
+    background-color: black;
+    margin-top: -3px;
+}
+.legholder{
+    width: 200px;
+    height: 100px;
+    border-radius: 80%;
+    background-color: black;
+    margin-top: -2px;
+}
+.controls{
+    width: 30px;
+    height: 90px;
+    background-color: gray;
+}
